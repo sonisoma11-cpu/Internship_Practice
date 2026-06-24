@@ -1,1 +1,156 @@
+# Question And Answers.
+1) What is Tenchnology ?
+Answer: Technology is the application of scientific knowledge, skills, and tools to solve problems, make tasks easier, and improve human life.
+It includes everything from simple tools like a hammer and a wheel to advanced systems like computers, smartphones, robots, and artificial intelligence.
 
+2) Which Framework are you using for Testing?
+Answer:
+# Manual Testing
+-No specific framework is required.
+-Test cases are created based on:
+-SDLC (Software Development Life Cycle)
+-STLC (Software Testing Life Cycle)
+-Agile/Scrum methodology
+
+# Automation Testing Frameworks
+-Selenium Framework
+-Used for web application testing.
+-Supports Java, Python, C#, etc.
+
+# TestNG
+-Testing framework used with Selenium.
+-Provides annotations, reporting, and test execution control.
+
+# JUnit
+-Popular Java testing framework.
+-Commonly used for unit testing.
+
+# PyTest
+-Python-based testing framework.
+-Simple and powerful for automation testing.
+
+# Cucumber (BDD Framework)
+-Uses Gherkin language (Given-When-Then).
+-Easy for both technical and non-technical stakeholders to understand.
+
+3) Where it is used?
+Answer: 
+Testing frameworks are used to organize, execute, and manage software tests efficiently.
+
+| Framework | Used For                                                                                                |
+| --------- | ------------------------------------------------------------------------------------------------------- |
+| Selenium  | Automating testing of web applications such as e-commerce sites, banking portals, and web-based systems |
+| TestNG    | Managing and running automated test cases, generating reports, and grouping tests                       |
+| JUnit     | Testing individual Java classes and methods during development                                          |
+| PyTest    | Testing Python applications, APIs, and automation scripts                                               |
+| Cucumber  | Writing test scenarios in simple language so both developers and business teams can understand them     |
+
+Real-World Example
+
+# Suppose a company has an online shopping website:
+
+-Selenium checks whether the Login, Search, Add to Cart, and Payment pages work correctly.
+-TestNG organizes and executes all the Selenium test cases.
+-Cucumber describes the test scenarios in business-friendly language.
+-JUnit/PyTest tests individual functions written by developers.
+
+4) what are the required skills sets? 
+Answer:
+# Technical Skills
+-Manual Testing
+-SDLC (Software Development Life Cycle)
+-STLC (Software Testing Life Cycle)
+-Test Case Design
+-Bug/Defect Reporting and Tracking
+-Functional Testing
+-Regression Testing
+-Smoke Testing
+-Sanity Testing
+-Integration Testing
+-User Acceptance Testing (UAT)
+-Agile & Scrum Methodology
+-Basic SQL (Database Testing)
+-API Testing (Basic knowledge of Postman)
+-Test Documentation
+-Basic Automation Testing Concepts
+-Knowledge of Selenium (optional for freshers)
+-Version Control using Git and GitHub
+
+# Non-Technical Skills
+-Analytical Thinking
+-Attention to Detail
+-Problem-Solving
+-Communication Skills
+-Team Collaboration
+-Time Management
+-Documentation Skills
+-Willingness to Learn
+
+Career Opportunities in Software Testing
+
+Software Testing offers many career paths, from entry-level roles to leadership positions.
+
+# Entry-Level Roles
+-Software Testing Intern
+-QA Intern
+-Junior Software Tester
+-QA Analyst
+-Test Engineer
+
+# Mid-Level Roles
+-Software Tester
+-QA Engineer
+-Automation Test Engineer
+-Performance Test Engineer
+-API Test Engineer
+-Security Tester
+
+# Senior-Level Roles
+-Senior QA Engineer
+-Test Lead
+-QA Lead
+-Test Manager
+-Quality Assurance Manager
+
+# Advanced Career Paths
+-Automation Architect
+-Quality Engineering Manager
+-DevOps Engineer
+-Product Quality Manager
+-Software Development Engineer in Test (SDET)
+
+# Industries That Hire Software Testers
+-IT Services and Software Companies
+-Banking and Financial Services (BFSI)
+-Healthcare
+-E-commerce
+-Telecommunications
+-Government and Public Sector Projects
+-Manufacturing and Automotive
+
+# Career Growth Path
+
+Software Testing Intern → Junior Tester → QA Engineer → Senior QA Engineer → Test Lead → QA Manager
+
+## Future Scope of Software Testing
+
+Software Testing has a strong future due to the increasing demand for high-quality software applications. As technology continues to evolve, the need for skilled software testers is growing rapidly.
+
+### Key Areas of Growth
+- Automation Testing
+- Artificial Intelligence (AI) in Testing
+- Cloud Testing
+- Mobile Application Testing
+- API Testing
+- Security Testing
+
+### Career Opportunities
+- Software Tester
+- QA Engineer
+- Automation Test Engineer
+- SDET (Software Development Engineer in Test)
+- Test Lead
+- QA Manager
+
+### Conclusion
+Software Testing offers excellent career growth and opportunities across various industries. With the rise of automation, AI, cloud computing, and cybersecurity, the demand for skilled testers is expected to increase in the coming years.
